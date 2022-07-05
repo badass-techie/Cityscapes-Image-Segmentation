@@ -17,7 +17,7 @@ The dataset used was the [Cityscapes Image Pairs](https://keras.io/api/applicati
 
 ---
 ### Model
-![UNet Architecture](https://www.researchgate.net/profile/Oscar-Mora-7/publication/346226312/figure/fig2/AS:961405998092293@1606228460882/UNET-architecture-with-Sentinel-2-10-bands-as-input.png)
+![UNet Architecture](pix2pix%20arch.png)
 
 ---
 ### Sample Outputs
